@@ -12,7 +12,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-
+        let a = 1
+        let b = 2
         
     }
 
