@@ -8,12 +8,12 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    // saasads
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
-        let a = 1
-        let b = 2
+
         
     }
 
